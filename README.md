@@ -3,7 +3,7 @@
 :tea: **Name:** michelle. 
  <br>🌱 **I’m currently learning** algorithms.
  <br>:book: **I’m currently reading** Cracking the Coding Interview.
- <br>💬 **Ask me about** anything!
+ <br>💬 **Ask me about** anime and manga recommendations! i've read over 300 manga (*´꒳`*)
  <br>😄 **Pronouns:** she / her.
  <br>⚡ **Fun fact:** i'm left-handed.
  
