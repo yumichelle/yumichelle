@@ -1,5 +1,11 @@
+# :unlock: you've unlocked my README! 
 ### Hi there 👋
-
+:tea: **name:** michelle. 
+ <br>🌱 **I’m currently learning** algorithms.
+ <br>:book: **I’m currently reading** Cracking the Coding Interview.
+ <br>💬 **Ask me about** anything!
+ <br>😄 **Pronouns:** she / her.
+ <br>⚡ **Fun fact:** i'm left-handed.
 <!--
 **yumichelle/yumichelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
