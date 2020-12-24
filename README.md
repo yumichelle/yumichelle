@@ -6,9 +6,11 @@
  <br>💬 **Ask me about** anything!
  <br>😄 **Pronouns:** she / her.
  <br>⚡ **Fun fact:** i'm left-handed.
+ 
+<br> <p align="center"> 
  <br> ![Github stats](https://github-readme-stats.vercel.app/api?username=yumichelle)
-<br> <p align="center"> **current mood:** <br>
-  <img width="400" src="https://static2.srcdn.com/wordpress/wp-content/uploads/2020/09/Kermit-the-Frog-Meme-ICU.jpeg?q=50&fit=crop&w=740&h=651">
+ <br><br> **current mood:** 
+<br>  <img width="400" src="https://static2.srcdn.com/wordpress/wp-content/uploads/2020/09/Kermit-the-Frog-Meme-ICU.jpeg?q=50&fit=crop&w=740&h=651">
 </p> 
 
 <!--
