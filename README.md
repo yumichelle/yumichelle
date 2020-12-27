@@ -10,7 +10,7 @@
 <br> <p align="center"> 
  <br> ![Github stats](https://github-readme-stats.vercel.app/api?username=yumichelle)
  <br><br> **current mood:** 
-<br>  <img width="400" src="https://static2.srcdn.com/wordpress/wp-content/uploads/2020/09/Kermit-the-Frog-Meme-ICU.jpeg?q=50&fit=crop&w=740&h=651">
+<br>  <img width="400" src="https://i.pinimg.com/736x/ff/69/fc/ff69fcab7b8e946b96dad27344b981c6.jpg">
 </p> 
 
 <!--
