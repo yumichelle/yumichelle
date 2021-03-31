@@ -8,9 +8,10 @@
  <br>⚡ **Fun fact:** i'm left-handed.
  
 <br> <p align="center"> 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D444NK2)
  <br> ![Github stats](https://github-readme-stats.vercel.app/api?username=yumichelle)
  <br><br> **current mood:** 
-<br>  <img width="400" src="https://i.pinimg.com/736x/ff/69/fc/ff69fcab7b8e946b96dad27344b981c6.jpg">
+<br>  <img width="400" src="https://i.redd.it/bpm3ljb71fj51.png">
 </p> 
 
 <!--
