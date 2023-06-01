@@ -9,6 +9,8 @@
  
 <br> <p align="center"> 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D444NK2)
+<br><br> Check my business card! <br> 
+<img width="200" title="My business card" src="https://github.com/yumichelle/yumichelle/assets/27922550/2e223e69-9b05-4ac3-8365-3715b3b1c561">
  <br> ![Github stats](https://github-readme-stats.vercel.app/api?username=yumichelle)
  <br><br> **current mood:** 
 <br>  <img width="400" src="https://i.redd.it/bpm3ljb71fj51.png">
