@@ -19,7 +19,7 @@
 <a href="https://hihello.me/p/d7bdab8e-2c0a-411b-928f-6b555b323dc2"><img width="200" title="My business card" src="https://github-production-user-asset-6210df.s3.amazonaws.com/27922550/242444856-2e223e69-9b05-4ac3-8365-3715b3b1c561.png"></a>
  <br> ![Github stats](https://github-readme-stats.vercel.app/api?username=yumichelle)
  <br><br> **current mood:** 
-<br>  <img width="400" src="https://i.redd.it/bpm3ljb71fj51.png">
+<br>  <img width="100" src="https://cdn3.iconfinder.com/data/icons/shiba-inu-dog-emoji/500/Tired_shiba_inu_dog_emoticon-512.png">
 </p> 
 
 ![](https://komarev.com/ghpvc/?username=yumichelle&style=for-the-badge&color=green)
